@@ -356,7 +356,7 @@ main {
 }
 
 .footer-links {
-    height: 400px;
+    height: 450px;
     display: flex;
     justify-content: space-evenly;
     background-color: #232F3E;
